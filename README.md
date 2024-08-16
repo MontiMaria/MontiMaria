@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f0/22/6f/f0226f99c0695bc9e52512bdb2a61fcc.gif" alt="CuteComputerGif" 
-       max-height="400" max-width="800" />
+       max-height="600" max-width="1000" />
 </div>
 
 <h3>Sobre mí ★</h3>
@@ -47,6 +47,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="sass" width="40" height="40"/>  
 </p>
 <!--Footer--> 
 <p align="center">
