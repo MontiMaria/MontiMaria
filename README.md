@@ -22,7 +22,7 @@
 
 <h3 align="left">Mis redes sociales:</h3>
 
-- <a href="https://www.linkedin.com/in/maria-daniela-monti-julien-79b17631a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-daniela-monti-julien-79b17631a/" height="20" width="30" /></a>
+- <a href="https://www.linkedin.com/in/mariamonti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariamonti/" height="20" width="30" /></a>
 
 <h2 align="center">👩‍💻 Técnicológicas que uso:</h2>
 
