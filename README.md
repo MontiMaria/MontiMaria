@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy María ♡</h1>
+<h1 align="center">Hola 👋, soy Mar ♡</h1>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f0/22/6f/f0226f99c0695bc9e52512bdb2a61fcc.gif" alt="CuteComputerGif" 
