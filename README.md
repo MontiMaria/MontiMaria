@@ -6,9 +6,9 @@
 </div>
 
 <h3>Sobre mí ★</h3>
-<p>Soy María Monti, actualmente estoy cursando 2° año de la Tecnicatura en Programación de Aplicaciones 🚀 soy de Mar del Plata, Buenos Aires, Argentina</p>
+<p>Soy María Monti, actualmente estoy cursando 3° año de la Tecnicatura en Programación de Aplicaciones 🚀 soy de Mar del Plata, Buenos Aires, Argentina</p>
 
-- 🎓 Tecnicatura Superior en Analisis, Desarrollo y Programación de Aplicaciones (ISET, cursando 2° año)
+- 🎓 Tecnicatura Superior en Analisis, Desarrollo y Programación de Aplicaciones (ISET, cursando 3° año)
 
 - 🎓 Curso Argentina Programa (INTI)
 
