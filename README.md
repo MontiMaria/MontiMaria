@@ -6,15 +6,15 @@
 </div>
 
 <h3>Sobre mí ★</h3>
-<p>Soy María Monti, actualmente estoy cursando 3° año de la Tecnicatura en Programación de Aplicaciones 🚀 soy de Mar del Plata, Buenos Aires, Argentina</p>
+<p>Soy María Monti, actualmente finalice la Tecnicatura Superior en Programación de Aplicaciones 🚀 soy de Mar del Plata, Buenos Aires, Argentina</p>
 
-- 🎓 Tecnicatura Superior en Analisis, Desarrollo y Programación de Aplicaciones (ISET, cursando 3° año)
+- 🎓 Tecnicatura Superior en Analisis, Desarrollo y Programación de Aplicaciones (ISET, finalizado en 2025)
 
 - 🎓 Curso Argentina Programa (INTI)
 
 - 🎓 Curso LaunchX Programador web Full Stack (Microsoft Latam)
 
-- 👩‍💻 Observa mi portfolio: <a href="montimaria.github.io/Portfolio/" target="blank">Aqui</a>
+- 👩‍💻 Observa mi portfolio: <a href="https://montimaria.github.io/portfolio/" target="_blank">Aqui</a>
 
 - 📧 Contacto: mariamontijulien@gmail.com
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Mis redes sociales:</h3>
 
-- <a href="https://www.linkedin.com/in/mariamonti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariamonti/" height="20" width="30" /></a>
+- <a href="https://www.linkedin.com/in/mariamonti/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariamonti/" height="20" width="30" /></a>
 
 <h2 align="center">👩‍💻 Técnicológicas que uso:</h2>
 
