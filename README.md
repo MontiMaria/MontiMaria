@@ -14,7 +14,7 @@
 
 - 🎓 Curso LaunchX Programador web Full Stack (Microsoft Latam)
 
-- 👩‍💻 Observa mi portfolio: <a href="https://montimaria.github.io/portfolio/" target="_blank">Aqui</a>
+- 👩‍💻 Observa mi portfolio: <a href="https://montimaria.github.io/Portfolio/" target="_blank">Aqui</a>
 
 - 📧 Contacto: mariamontijulien@gmail.com
 
